@@ -1,0 +1,24 @@
+---
+site_name: Hemant Sharma 
+site_description: Github Home Page
+site_author: Hemant Sharma
+site_url: https://hmntsharma.github.io/
+
+theme:
+  name: material
+  palette:
+    primary: black
+    accent: red
+  icon:
+    logo: material/router
+    repo: fontawesome/brands/git-alt
+  features:
+    - navigation.tabs
+    - navigation.instant
+    - navigation.tracking
+    - navigation.expand
+    - navigation.top
+    - toc.integrate 
+repo_url: https://github.com/hmntsharma/hmntsharma.github.io
+repo_name: hmntsharma/hmntsharma.github.io
+edit_uri: ""
